@@ -14,7 +14,7 @@
 					}
 				}
 			},
-			"tycoon": {
+			"library": {
 				"$path": "out/src"
 			},
 			"shared": {
